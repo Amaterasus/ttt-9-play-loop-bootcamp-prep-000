@@ -38,5 +38,7 @@ end
 # Define your play method below
 
 def play(board)
-  turn(board).times(9)
+  index = 1
+  while index < 9
+  
 end
