@@ -39,6 +39,9 @@ end
 
 def play(board)
   index = 1
+  
   until index == 9
+    index += 1
+  end
   
 end
