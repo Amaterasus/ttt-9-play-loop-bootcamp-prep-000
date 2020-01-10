@@ -39,7 +39,7 @@ end
 
 def play(board)
   index = 1
-  while index < board.length
+  while index < 9
     
     index++
   end
